@@ -2,5 +2,5 @@
 
 - Kochi University of Technology
 - B4(Laboratory for Quantitative Political Economy)
-- econometrics, education economics
+- economics of education
 
