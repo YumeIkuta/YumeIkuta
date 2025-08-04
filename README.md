@@ -1,6 +1,8 @@
 **Yume Ikuta**
 
 - Kobe University
-- M1()
-  - economics of education
+- M1(Graduate School of Economics)
+  - Economics of Education
+  - Labor Economics
+
 
